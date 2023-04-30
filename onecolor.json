@@ -115,13 +115,13 @@
         "BRAND_500": "#5F3E53",
         "BRAND_560": "#ffffff",
         "WHITE_500": "#ffffff",
-        "BLUE_345": "#5F3E53",
-        "YELLOW_300": "#5F3E53",
-        "ORANGE_345": "#5F3E53",
-        "GREEN_345": "#5F3E53",
-        "GREEN_360": "#5F3E53",
-        "RED_560" : "#5F3E53",
-        "RED_400": "#5F3E53"
+        "BLUE_345": "#FFAAFB",
+        "YELLOW_300": "#FFAAFB",
+        "ORANGE_345": "#FFAAFB",
+        "GREEN_345": "#FFAAFB",
+        "GREEN_360": "#FFAAFB",
+        "RED_560" : "#FFAAFB",
+        "RED_400": "#FFAAFB"
     },
     "spec": 2
 }
