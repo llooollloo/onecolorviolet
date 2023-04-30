@@ -12,7 +12,7 @@
             "#ffffff"
         ],
         "HEADER_SECONDARY": [
-            "#5F3E53"
+            "#FFAAFB"
         ],
         "TEXT_NORMAL": [
             "#ffffff"
@@ -24,7 +24,7 @@
             "#FFAAFB"
         ],
         "TEXT_DANGER": [
-            "#5F3E53"
+            "#FFAAFB"
         ],
         "INTERACTIVE_NORMAL": [
             "#ffffff"
